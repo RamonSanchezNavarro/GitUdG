@@ -1,6 +1,3 @@
-^G
-
-^X
-
+Introduccio
 
 
